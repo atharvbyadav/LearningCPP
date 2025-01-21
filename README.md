@@ -36,7 +36,7 @@ Here are some examples of what you can find in this repository:
 1. Clone the repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/atharvbyadav/LearningCPP.git
    ```
 2. Navigate to the folder where the programs are stored.
 3. Compile and run the individual programs using a C++ compiler (e.g., `g++` or `clang++`):
